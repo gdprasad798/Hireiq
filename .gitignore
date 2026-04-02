@@ -13,3 +13,4 @@ dist/
 
 # Docker
 *.log
+backend/fix.py
